@@ -1,3 +1,9 @@
+body{
+    background-color: rgb(37, 37, 37);
+}
 h3{
+    color: red;
+}
+p{
     color: red;
 }
